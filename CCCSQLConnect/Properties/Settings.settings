@@ -1,0 +1,76 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CCCSQLConnect.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JusticeTEST4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTest02\ccctest4;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTest02\ccctest4;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticeTEST8" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTest02\ccctest8;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTest02\ccctest8;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticePROD" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CMSSQLPRDN03\ILCOOKPROD;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CMSSQLPRDN03\ILCOOKPROD;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticeTST4U" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTest02\ccctest4;Initial Catalog=Justice;User Id=EJuser;Password=Fh80UXq363PHa4B;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTest02\ccctest4;Initial Catalog=Justice;User Id=EJuser;Password=Fh80UXq363PHa4B;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticeTST8U" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTest02\ccctest8;Initial Catalog=Justice;User Id=EJuser;Password=Fh80UXq363PHa4B;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTest02\ccctest8;Initial Catalog=Justice;User Id=EJuser;Password=Fh80UXq363PHa4B;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticeTEST6" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTEST03\CCCTEST6;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTEST03\CCCTEST6;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticeTEST12" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTEST02\cmstest12;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTEST02\cmstest12;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="JusticePRODU" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CMSSQLPRDN03\ILCOOKPROD;Initial Catalog=Justice;Integrated Security=False;User ID=ranApp;Password=zRbtrcvxWyQvYj4&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CMSSQLPRDN03\ILCOOKPROD;Initial Catalog=Justice;Integrated Security=False;User ID=ranApp;Password=zRbtrcvxWyQvYj4</Value>
+    </Setting>
+    <Setting Name="JusticePRODL" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=cccsqltest03\cccwebapps;Initial Catalog=CCCAppLog;Integrated Security=False;User ID=public2;Password=Public@Access!&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=cccsqltest03\cccwebapps;Initial Catalog=CCCAppLog;Integrated Security=False;User ID=public2;Password=Public@Access!</Value>
+    </Setting>
+    <Setting Name="JusticeSTAGE" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=CCCSQLTEST03\CCCSTAGE02;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=CCCSQLTEST03\CCCSTAGE02;Initial Catalog=Justice;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
